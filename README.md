@@ -4,8 +4,14 @@
 
 ## Overview:
 
-Let's start out with something fun - **a game!**
+Overview
+Let's start out with something fun - a game!
 
+You have two options:
+
+Option A: make Tic Tac Toe (XO) 
+
+Option B: make any game you want!
 
 **You will be working individually for this project**, but we are here to support you and you are here to support each other. Show us what you've got!
 
