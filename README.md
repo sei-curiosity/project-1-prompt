@@ -88,7 +88,7 @@ Need some ideas? Keep reading!
 - [Simon](https://sbinhimd.github.io/simon/)
 - War - Two Player
 - Self-scoring Trivia
-- [Memory Game](https://dialaj.github.io/game/) [Memory Game -2 ](https://tsubaki92.github.io/Nightmare/)
+- [Memory Game](https://dialaj.github.io/game/) [Memory Game - 2 ](https://tsubaki92.github.io/Nightmare/) [Memory Game - 3](https://adhelaimi.github.io/project1/index.html)
 
 ### Medium
 
