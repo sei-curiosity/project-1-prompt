@@ -138,7 +138,7 @@ Some questions might help you with the presentation:
 - Simon
 - War - Two Player
 - Self-scoring Trivia
-- Memory
+- (Memory)[https://tsubaki92.github.io/Nightmare/]
 
 ### Medium
 
@@ -148,7 +148,7 @@ Some questions might help you with the presentation:
 - Checkers - Two Players
 - Yahtzee - Two Players
 - [Broken Machine](https://yazeed2.github.io/Game/index.html)
-- [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/)
+- [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/) 
 
 ### Advanced
 - Battleship - Two Player
