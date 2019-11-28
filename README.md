@@ -130,7 +130,7 @@ Some questions might help you with the presentation:
 - What features did you include?
   - Make sure to explain anything "new" (things that we didn't cover in class)
 - What was the most difficult part of the project?
-- What was your favourate part to work on?
+- What was your favorite part to work on?
 - What would you like to add next?
 
 ---
