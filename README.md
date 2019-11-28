@@ -97,6 +97,7 @@ Need some ideas? Keep reading!
 - Sorry! - Multiple Players
 - Checkers - Two Players
 - Yahtzee - Two Players
+- [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/) 
 
 ### Advanced
 
@@ -104,7 +105,6 @@ Need some ideas? Keep reading!
 - Black Jack - with Computer AI
 - Missile Command - Level Progression
 - [Broken Machine](https://yazeed2.github.io/Game/index.html)
-- [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/) 
 
 ---
 
