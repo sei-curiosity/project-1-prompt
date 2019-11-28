@@ -103,6 +103,8 @@ Need some ideas? Keep reading!
 - Battleship - Two Player
 - Black Jack - with Computer AI
 - Missile Command - Level Progression
+- [Broken Machine](https://yazeed2.github.io/Game/index.html)
+- [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/) 
 
 ---
 
@@ -130,30 +132,6 @@ Some questions might help you with the presentation:
 - What was the most difficult part of the project?
 - What was your favourate part to work on?
 - What would you like to add next?
-
----
-
-### Beginner
-
-- Simon
-- War - Two Player
-- Self-scoring Trivia
-- (Memory)[https://tsubaki92.github.io/Nightmare/]
-
-### Medium
-
-- Text Adventure
-- Connect 4 - Two Player
-- Sorry! - Multiple Players
-- Checkers - Two Players
-- Yahtzee - Two Players
-- [Broken Machine](https://yazeed2.github.io/Game/index.html)
-- [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/) 
-
-### Advanced
-- Battleship - Two Player
-- Black Jack - with Computer AI
-- Missile Command - Level Progression
 
 ---
 ### Suggested Ways to Get Started
