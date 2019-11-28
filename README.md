@@ -85,10 +85,10 @@ Need some ideas? Keep reading!
 
 ### Beginner
 
-- Simon
+- [Simon](https://sbinhimd.github.io/simon/)
 - War - Two Player
 - Self-scoring Trivia
-- Memory
+- [Memory Game](https://dialaj.github.io/game/)
 
 ### Medium
 
