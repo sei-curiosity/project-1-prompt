@@ -100,7 +100,7 @@ Need some ideas? Keep reading!
 - [speed math](https://fah11ad.github.io/Project-1---Speed-Math-Game/) 
 
 ### Advanced
-
+- [dots-and-box](https://doaaalalawi.github.io/dots-and-box-project-1/)
 - Battleship - Two Player
 - Black Jack - with Computer AI
 - Missile Command - Level Progression
